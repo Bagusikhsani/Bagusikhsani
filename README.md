@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi there, I'm Bagusi11!
 
-<!--
-**Bagusikhsani/Bagusikhsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in JavaScript and PHP, and I love exploring the world of web development.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning new techniques and technologies to enhance my coding skills and build awesome projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I’m looking to collaborate on open-source projects related to web development, especially those involving JavaScript frameworks and PHP libraries.
+
+📫 Feel free to reach out to me through GitHub or via email [your-email@example.com] to discuss potential collaborations or just to connect!
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Did you know that the first website went live in 1991? It was dedicated to information on the World Wide Web project and was hosted on a NeXT computer at CERN.
