@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects related to web development, especially those involving JavaScript frameworks and PHP libraries.
 
-📫 Feel free to reach out to me through GitHub or via email [your-email@example.com] to discuss potential collaborations or just to connect!
+📫 Feel free to reach out to me through GitHub or via email [bzidan92@gmail.com] to discuss potential collaborations or just to connect!
 
 😄 Pronouns: He/Him
 
