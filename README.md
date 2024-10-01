@@ -9,5 +9,3 @@
 📫 Feel free to reach out to me through GitHub or via email [bagusikhsani555@gmail.com] to discuss potential collaborations or just to connect!
 
 😄 Pronouns: He/Him
-
-⚡ Fun fact: Did you know that the first website went live in 1991? It was dedicated to information on the World Wide Web project and was hosted on a NeXT computer at CERN.
